@@ -61,3 +61,12 @@ Kaggle Public Leaderboard Score: **0.91078**
 
 ## Version Control
 Git and GitHub are used to track project development, maintain commit history, and manage project versions.
+
+## Development Workflow
+
+The project follows a structured development workflow using Git.
+
+- `main`: Contains the stable project version.
+- `documentation`: Used for documentation updates.
+- Git commits record changes made during different stages of development.
+- GitHub is used to host and share the project repository.
